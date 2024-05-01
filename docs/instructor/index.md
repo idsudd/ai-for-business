@@ -2,6 +2,11 @@
 
 ## Loreto Bravo
 
+![Loreto](../assets/images/loreto.png){ width="200", align=right }
+
+* Directora del [Instituto de Ciencia de Datos de la Universidad del Desarrollo](https://ingenieria.udd.cl/data-science/persona/dra-loreto-bravo).
+* Ph.D., Computer Science, School of Computer Science, Carleton University.
+* Ingeniero Civil Industrial, Pontificia Universidad Católica de Chile.
 
 ## Alonso Astroza
 
