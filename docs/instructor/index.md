@@ -4,9 +4,14 @@
 
 ![Loreto](../assets/images/loreto.png){ width="200", align=right }
 
-* Directora del [Instituto de Ciencia de Datos de la Universidad del Desarrollo](https://ingenieria.udd.cl/data-science/persona/dra-loreto-bravo).
+* Soy Directora del [Instituto de Ciencia de Datos de la Universidad del Desarrollo](https://ingenieria.udd.cl/data-science/persona/dra-loreto-bravo).
+* Soy [Consejera en el CTCI](https://consejoctci.cl/miembros-del-consejo/): Consejo Nacional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo.
 * Ph.D., Computer Science, School of Computer Science, Carleton University.
 * Ingeniero Civil Industrial, Pontificia Universidad Católica de Chile.
+
+### Contacto
+
+* :fontawesome-brands-linkedin: [aastrozacl](https://www.linkedin.com/in/loreto-bravo)
 
 ## Alonso Astroza
 
