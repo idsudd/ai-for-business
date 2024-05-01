@@ -105,6 +105,7 @@ nav:
       - Video: cookbook/video.md
       - Audio: cookbook/audio.md
       - Código: cookbook/code.md
+      - GPTs: cookbook/gpts.md
     - Desarrollando software:
       - Modelos Privados: cookbook/api.md
       - Modelos Abiertos: cookbook/integration.md
