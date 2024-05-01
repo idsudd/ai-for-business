@@ -89,7 +89,13 @@ nav:
     - cookbook/index.md
     - Diálogos efectivos con un LLM:
       - Prompts: cookbook/prompts.md
-      - Ingeniería de prompts: cookbook/prompt-engineering.md
+      - Ingeniería de prompts:
+        - cookbook/prompt-engineering.md
+        - Persona: cookbook/persona.md
+        - Cadena de Pensamiento: cookbook/thought-chain.md
+        - Uso de ejemplos: cookbook/few-shot.md
+      - Ventana de Contexto: cookbook/context-window.md
+      - Tokenización: cookbook/tokenization.md
       - Prompts adversos: cookbook/adversarial-prompts.md
     - Copilotos:
       - Microsoft: cookbook/microsoft.md
