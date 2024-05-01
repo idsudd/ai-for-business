@@ -27,7 +27,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - announce.dismiss
-
+    - content.tabs.link
 
 # Copyright
 copyright: Copyright &copy; 2024 Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo.
@@ -47,6 +47,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
