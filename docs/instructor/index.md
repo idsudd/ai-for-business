@@ -11,7 +11,7 @@
 
 ### Contacto
 
-* :fontawesome-brands-linkedin: [aastrozacl](https://www.linkedin.com/in/loreto-bravo)
+* :fontawesome-brands-linkedin: [loreto-bravo](https://www.linkedin.com/in/loreto-bravo)
 
 ## Alonso Astroza
 
