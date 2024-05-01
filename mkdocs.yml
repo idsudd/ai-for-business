@@ -103,7 +103,9 @@ nav:
       - Modelos Privados: cookbook/api.md
       - Modelos Abiertos: cookbook/integration.md
       - Tecnologías: cookbook/technologies.md
-
+  - Casos:
+    - cases/index.md
+    - Moderna: cases/moderna.md
   - Glosario:
     - glossary/index.md
   - Instructores:
