@@ -90,7 +90,7 @@ nav:
     - Diálogos efectivos con un LLM:
       - Prompts: cookbook/prompts.md
       - Ingeniería de prompts:
-        - cookbook/prompt-engineering.md
+        - Introducción: cookbook/prompt-engineering.md
         - Persona: cookbook/persona.md
         - Cadena de Pensamiento: cookbook/thought-chain.md
         - Uso de ejemplos: cookbook/few-shot.md
