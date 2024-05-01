@@ -1,18 +1,19 @@
 # Site information
-site_name: Course Title
-site_author: Jonh Doe
+site_name: AI for Business
+site_author: Alonso Astroza & Loreto Bravo
 site_description: >-
-  A very good course
+  IDS UDD's AI for business course
 
 
 # Repository
-repo_name: user/repository-name
-repo_url: https://github.com/user/repository-name
+repo_name: idsudd/ai-for-business
+repo_url: https://github.com/idsudd/ai-for-business
 
 
 # Configuration
 theme:
   name: material
+  language: es
   icon:
     logo: material/book-heart-outline
   palette:
@@ -29,7 +30,7 @@ theme:
 
 
 # Copyright
-copyright: Copyright &copy; 2024 John Doe.
+copyright: Copyright &copy; 2024 Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo.
 
 # Additional configuration
 extra:
@@ -38,7 +39,7 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:johndoe@udd.cl
+      link: mailto:alonsoastroza@udd.cl
 
 markdown_extensions:
   - attr_list
@@ -59,11 +60,49 @@ plugins:
   
 nav:
   - Home: index.md
-  - Getting Started:
-      - Welcome to the course: welcome.md
-  - Lectures:
+  - Comenzando:
+      - Bienvenida: welcome.md
+      - Bibliografía: bibliography.md
+  - Clases:
       - lectures/index.md
   - Material:
     - material/index.md
-  - Instructor:
+    - ¿Qué es la Inteligencia Artificial?:
+      - Definicion: material/what-is-ai.md
+      - Historia: material/history.md
+    - Inteligencia Artificial Generativa:
+      - Introducción: material/generative-ai.md
+      - Principios: material/generative-ai-principles.md
+      - Aplicaciones:
+        - En el trabajo: material/generative-ai-applications-work.md
+        - En la creatividad: material/generative-ai-applications-creativity.md
+        - En la eduación: material/generative-ai-applications-education.md
+        - En el futuro: material/generative-ai-applications-future.md
+      - Cómo funciona ChatGPT:
+        - Large Language Models: material/large-language-models.md
+        - Reinforcement Learning from Human Feedback: material/RLHF.md
+        - Limitaciones: material/limitations.md
+        - Evaluacion: material/evaluation.md
+  - Recetas:
+    - cookbook/index.md
+    - Diálogos efectivos con un LLM:
+      - Prompts: cookbook/prompts.md
+      - Ingeniería de prompts: cookbook/prompt-engineering.md
+      - Prompts adversos: cookbook/adversarial-prompts.md
+    - Copilotos:
+      - Microsoft: cookbook/microsoft.md
+      - GitHub: cookbook/github.md
+    - Creación de contenido:
+      - Imagenes: cookbook/images.md
+      - Video: cookbook/video.md
+      - Audio: cookbook/audio.md
+      - Código: cookbook/code.md
+    - Desarrollando software:
+      - Modelos Privados: cookbook/api.md
+      - Modelos Abiertos: cookbook/integration.md
+      - Tecnologías: cookbook/technologies.md
+
+  - Glosario:
+    - glossary/index.md
+  - Instructores:
     - instructor/index.md
