@@ -4,7 +4,9 @@
 
 ## Una introducción a la Inteligencia Artificial Generativa
 
-Welcome to "This Course is Awesome"! Whether you're looking to deepen your existing expertise or explore a new area, you've made a great choice. In this course, we'll embark on a journey through engaging lectures and hands-on activities designed to equip you with the knowledge and skills you need to succeed. Get ready to challenge your perspectives, enhance your capabilities, and connect with a diverse group of peers. Let's dive into an exciting learning experience that promises not just to educate but also to inspire!
+Este sitio es una colección de contenido en español sobre IA generativa para distintos cursos que imparte el [Instituto de Ciencia de Datos de la Universidad del Desarrollo](https://ingenieria.udd.cl/data-science/). El material está diseñado para brindar a los estudiantes una introducción sólida de cómo funciona la IA generativa, cómo utilizarla, y las grandes oportunidades y desafíos que presenta para la sociedad.
+
+El material explora el funcionamiento interno de los modelos de IA modernos, enfocándose particularmente en los Grandes Modelos de Lenguaje (LLMs) como ChatGPT, mientras se involucra en aplicaciones prácticas de estos sistemas. Pero también se revisan modelos de generación de imágenes, video y audio.
 <br>
 <br>
 [:fontawesome-solid-bolt: Comenzar](welcome.md){ .md-button .md-button--primary } [:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button }
