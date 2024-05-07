@@ -1,13 +1,13 @@
 # Site information
-site_name: AI for Business
-site_author: Alonso Astroza & Loreto Bravo
+site_name: Inteligencia Artificial Generativa
+site_author: Alonso Astroza
 site_description: >-
-  IDS UDD's AI for business course
+  Curso del Instituto de Data Science UDD sobre Inteligencia Artificial Generativa
 
 
 # Repository
-repo_name: idsudd/ai-for-business
-repo_url: https://github.com/idsudd/ai-for-business
+repo_name: idsudd/generative-ai
+repo_url: https://github.com/idsudd/generative-ai
 
 
 # Configuration
@@ -36,7 +36,7 @@ copyright: Copyright &copy; 2024 Instituto de Data Science, Facultad de Ingenier
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-93GNCVX8RQ
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:alonsoastroza@udd.cl
