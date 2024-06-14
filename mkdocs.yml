@@ -1,13 +1,13 @@
 # Site information
-site_name: Inteligencia Artificial Generativa
+site_name: Desarrollo de Productos de Datos
 site_author: Alonso Astroza
 site_description: >-
-  Curso del Instituto de Data Science UDD sobre Inteligencia Artificial Generativa
+  Curso del Instituto de Data Science UDD sobre Desarrollo de Productos de Datos
 
 
 # Repository
-repo_name: idsudd/generative-ai
-repo_url: https://github.com/idsudd/generative-ai
+repo_name: idsudd/desarrollo-productos
+repo_url: https://github.com/idsudd/desarrollo-productos
 
 
 # Configuration
